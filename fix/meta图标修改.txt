@@ -1,0 +1,3 @@
+<link rel="icon" href="Images/my.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="Images/my.ico" type="image/x-icon" />
+<link rel="bookmark" href="Images/my.ico" type="image/x-icon" />
